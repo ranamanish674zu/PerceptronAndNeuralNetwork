@@ -1,0 +1,3 @@
+# PerceptronAndNeuralNetwork
+## The Perceptron algorithm works by taking multiple inputs, each with an associated weight. These inputs are multiplied by their respective weights and summed together. The sum is then passed through an activation function, typically a step function, to produce the output. The output is a binary value, either 0 or 1, which corresponds to the class label.
+## Neural networks consist of interconnected nodes, called artificial neurons or "nodes," organized into layers. The layers are typically classified into an input layer, one or more hidden layers, and an output layer. Each node in a layer receives input signals, performs a computation using weights and activation functions, and passes the output to the next layer.
